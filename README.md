@@ -21,3 +21,5 @@ E-commerce premium com design sofisticado em tons de roxo e funcionalidades comp
 - Google Fonts
 
 ## 📦 Estrutura de Arquivos
+
+../em andamento
