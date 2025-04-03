@@ -1,6 +1,6 @@
 # 🌟 LUMIN E-commerce
 
-E-commerce premium com design sofisticado em tons de roxo e funcionalidades completas.
+E-commerce premium com design sofisticado em tons de roxo.
 
 ![Preview](images/preview.png)
 
