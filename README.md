@@ -2,7 +2,7 @@
 
 E-commerce premium com design sofisticado em tons de roxo e funcionalidades completas.
 
-![Preview](assets/preview.png)
+![Preview](images/preview.png)
 
 ## 🚀 Funcionalidades
 
