@@ -16,7 +16,7 @@ const products = [
     description: "Couro francês com detalhes em ouro",
     image: "assets/bag.jpg",
     category: "acessorios",
-    icon: "fas fa-handbag",
+    icon: "fa-solid fa-bag-shopping",
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const products = [
   },
   {
     id: 4,
-    name: "Perfume Lumière",
+    name: "Perfume Coco Chanel",
     price: 899.99,
     description: "Fragrância exclusiva com notas de jasmim e âmbar",
     image: "assets/perfume.jpg",
@@ -43,11 +43,11 @@ const products = [
     description: "Couro italiano com fivela em metal nobre",
     image: "assets/belt.jpg",
     category: "acessorios",
-    icon: "fas fa-belt",
+    icon: "fa-solid fa-conveyor-belt",
   },
   {
     id: 6,
-    name: "Caderno Artesanal",
+    name: "Caderno Inteligente",
     price: 399.99,
     description: "Capa em couro com folhas de algodão",
     image: "assets/notebook.jpg",
